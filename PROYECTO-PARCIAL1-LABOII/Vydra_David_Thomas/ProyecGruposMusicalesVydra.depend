@@ -1,0 +1,102 @@
+# depslib dependency file v1.0
+1684124693 source:c:\users\david\desktop\proyectos en codeblocks\proyecgruposmusicalesvydra\main.cpp
+	<iostream>
+	<stdlib.h>
+	<cstring>
+	<ctime>
+	"ClaseFecha.h"
+	"ClaseMusicos.h"
+	"MenuMusicos.h"
+	"ClaseGeneros.h"
+	"MenuGeneros.h"
+	"ClaseConfiguracion.h"
+	"MenuConfiguracion.h"
+	"reportes.h"
+	"MenuReportes.h"
+
+1684354638 c:\users\david\desktop\proyectos en codeblocks\proyecgruposmusicalesvydra\clasemusicos.h
+
+1683826403 c:\users\david\desktop\proyectos en codeblocks\proyecgruposmusicalesvydra\funcionesarchivosmusicos.h
+
+1684356820 c:\users\david\desktop\proyectos en codeblocks\proyecgruposmusicalesvydra\clasefecha.h
+
+1684122606 c:\users\david\desktop\proyectos en codeblocks\proyecgruposmusicalesvydra\menumusicos.h
+
+1684356819 c:\users\david\desktop\proyectos en codeblocks\proyecgruposmusicalesvydra\clasegeneros.h
+
+1684122606 c:\users\david\desktop\proyectos en codeblocks\proyecgruposmusicalesvydra\menugeneros.h
+
+1683919302 c:\users\david\desktop\proyectos en codeblocks\proyecgruposmusicalesvydra\claseconfiguracion.h
+
+1684355414 c:\users\david\desktop\proyectos en codeblocks\proyecgruposmusicalesvydra\menuconfiguracion.h
+
+1684355825 c:\users\david\desktop\proyectos en codeblocks\proyecgruposmusicalesvydra\menureportes.h
+
+1684356811 c:\users\david\desktop\proyectos en codeblocks\proyecgruposmusicalesvydra\reportes.h
+
+1684124693 source:c:\users\david\desktop\proyecgruposmusicalesvydra\proyecgruposmusicalesvydra\main.cpp
+	<iostream>
+	<stdlib.h>
+	<cstring>
+	<ctime>
+	"ClaseFecha.h"
+	"ClaseMusicos.h"
+	"MenuMusicos.h"
+	"ClaseGeneros.h"
+	"MenuGeneros.h"
+	"ClaseConfiguracion.h"
+	"MenuConfiguracion.h"
+	"reportes.h"
+	"MenuReportes.h"
+
+1684356820 c:\users\david\desktop\proyecgruposmusicalesvydra\proyecgruposmusicalesvydra\clasefecha.h
+
+1684354638 c:\users\david\desktop\proyecgruposmusicalesvydra\proyecgruposmusicalesvydra\clasemusicos.h
+
+1684122606 c:\users\david\desktop\proyecgruposmusicalesvydra\proyecgruposmusicalesvydra\menumusicos.h
+
+1684356819 c:\users\david\desktop\proyecgruposmusicalesvydra\proyecgruposmusicalesvydra\clasegeneros.h
+
+1684122606 c:\users\david\desktop\proyecgruposmusicalesvydra\proyecgruposmusicalesvydra\menugeneros.h
+
+1683919302 c:\users\david\desktop\proyecgruposmusicalesvydra\proyecgruposmusicalesvydra\claseconfiguracion.h
+
+1684355414 c:\users\david\desktop\proyecgruposmusicalesvydra\proyecgruposmusicalesvydra\menuconfiguracion.h
+
+1684416275 c:\users\david\desktop\proyecgruposmusicalesvydra\proyecgruposmusicalesvydra\reportes.h
+
+1684415465 c:\users\david\desktop\proyecgruposmusicalesvydra\proyecgruposmusicalesvydra\menureportes.h
+
+1684124693 source:c:\users\david\desktop\proyecgruposmusicalesvydra\vydra_david_thomas\main.cpp
+	<iostream>
+	<stdlib.h>
+	<cstring>
+	<ctime>
+	"ClaseFecha.h"
+	"ClaseMusicos.h"
+	"MenuMusicos.h"
+	"ClaseGeneros.h"
+	"MenuGeneros.h"
+	"ClaseConfiguracion.h"
+	"MenuConfiguracion.h"
+	"reportes.h"
+	"MenuReportes.h"
+
+1684356820 c:\users\david\desktop\proyecgruposmusicalesvydra\vydra_david_thomas\clasefecha.h
+
+1684354638 c:\users\david\desktop\proyecgruposmusicalesvydra\vydra_david_thomas\clasemusicos.h
+
+1684122606 c:\users\david\desktop\proyecgruposmusicalesvydra\vydra_david_thomas\menumusicos.h
+
+1684356819 c:\users\david\desktop\proyecgruposmusicalesvydra\vydra_david_thomas\clasegeneros.h
+
+1684122606 c:\users\david\desktop\proyecgruposmusicalesvydra\vydra_david_thomas\menugeneros.h
+
+1683919302 c:\users\david\desktop\proyecgruposmusicalesvydra\vydra_david_thomas\claseconfiguracion.h
+
+1684355414 c:\users\david\desktop\proyecgruposmusicalesvydra\vydra_david_thomas\menuconfiguracion.h
+
+1684416413 c:\users\david\desktop\proyecgruposmusicalesvydra\vydra_david_thomas\reportes.h
+
+1684415465 c:\users\david\desktop\proyecgruposmusicalesvydra\vydra_david_thomas\menureportes.h
+

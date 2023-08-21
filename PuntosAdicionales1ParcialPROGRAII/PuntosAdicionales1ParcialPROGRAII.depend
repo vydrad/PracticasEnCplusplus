@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1684189223 source:c:\users\david\desktop\proyectos en codeblocks\puntosadicionales1parcialprograii\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	"parcialm1.h"
+	"Funciones.h"
+
+1684193885 c:\users\david\desktop\proyectos en codeblocks\puntosadicionales1parcialprograii\parcialm1.h
+
+1684203920 c:\users\david\desktop\proyectos en codeblocks\puntosadicionales1parcialprograii\funciones.h
+

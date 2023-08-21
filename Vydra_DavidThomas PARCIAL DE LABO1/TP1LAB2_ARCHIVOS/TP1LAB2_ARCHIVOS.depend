@@ -1,0 +1,146 @@
+# depslib dependency file v1.0
+1664219850 source:c:\users\pc\desktop\utn\laboratorio de computación\trabajos\trabajos grupales\tp canciones\tp1lab2_archivos\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	"FuncionesPArchivos.h"
+	"FuncionesPArchivos2.h"
+
+1664223298 c:\users\pc\desktop\utn\laboratorio de computación\trabajos\trabajos grupales\tp canciones\tp1lab2_archivos\funcionesparchivos.h
+
+1664224053 c:\users\pc\desktop\utn\laboratorio de computación\trabajos\trabajos grupales\tp canciones\tp1lab2_archivos\funcionesparchivos2.h
+
+1664379661 source:c:\users\david\desktop\tp_canciones\tp canciones\tp1lab2_archivos\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	"FuncionesPArchivos.h"
+	"FuncionesPArchivos2.h"
+
+1664379982 c:\users\david\desktop\tp_canciones\tp canciones\tp1lab2_archivos\funcionesparchivos.h
+
+1664315392 c:\users\david\desktop\tp_canciones\tp canciones\tp1lab2_archivos\funcionesparchivos2.h
+
+1665020294 source:c:\users\pc\desktop\utn\tecnico programador\laboratorio de computación\trabajos\trabajos grupales\tp1lab2_archivos\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<ctime>
+	"FuncionesCanciones.h"
+	"FuncionesInterpretes.h"
+	"FuncionesGeneros.h"
+	"FuncionesConfiguracion.h"
+	"reportes.h"
+
+1665023135 c:\users\pc\desktop\utn\tecnico programador\laboratorio de computación\trabajos\trabajos grupales\tp1lab2_archivos\funcionescanciones.h
+
+1665010993 c:\users\pc\desktop\utn\tecnico programador\laboratorio de computación\trabajos\trabajos grupales\tp1lab2_archivos\funcionesinterpretes.h
+
+1665007270 source:c:\users\david\desktop\tp1lab2_archivos\tp1lab2_archivos\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<ctime>
+	"FuncionesCanciones.h"
+	"FuncionesInterpretes.h"
+	"CorroborarFecha.h"
+
+1665010992 c:\users\david\desktop\tp1lab2_archivos\tp1lab2_archivos\funcionescanciones.h
+
+1665010993 c:\users\david\desktop\tp1lab2_archivos\tp1lab2_archivos\funcionesinterpretes.h
+
+1665010993 c:\users\david\desktop\tp1lab2_archivos\tp1lab2_archivos\corroborarfecha.h
+
+1665013821 source:c:\users\pc\desktop\utn\tecnico programador\laboratorio de computación\trabajos\trabajos grupales\tp1lab2_archivos\tp1lab2_archivos\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<ctime>
+	"FuncionesCanciones.h"
+	"FuncionesInterpretes.h"
+	"FuncionesGeneros.h"
+	"FuncionesConfiguracion.h"
+	"reportes.h"
+
+1665010992 c:\users\pc\desktop\utn\tecnico programador\laboratorio de computación\trabajos\trabajos grupales\tp1lab2_archivos\tp1lab2_archivos\funcionescanciones.h
+
+1665010993 c:\users\pc\desktop\utn\tecnico programador\laboratorio de computación\trabajos\trabajos grupales\tp1lab2_archivos\tp1lab2_archivos\funcionesinterpretes.h
+
+1665011277 c:\users\pc\desktop\utn\tecnico programador\laboratorio de computación\trabajos\trabajos grupales\tp1lab2_archivos\tp1lab2_archivos\funcionesgeneros.h
+
+1665013958 c:\users\pc\desktop\utn\tecnico programador\laboratorio de computación\trabajos\trabajos grupales\tp1lab2_archivos\tp1lab2_archivos\funcionesconfiguracion.h
+
+1665012573 c:\users\pc\desktop\utn\tecnico programador\laboratorio de computación\trabajos\trabajos grupales\tp1lab2_archivos\tp1lab2_archivos\reportes.h
+
+1665011277 c:\users\pc\desktop\utn\tecnico programador\laboratorio de computación\trabajos\trabajos grupales\tp1lab2_archivos\funcionesgeneros.h
+
+1665023118 c:\users\pc\desktop\utn\tecnico programador\laboratorio de computación\trabajos\trabajos grupales\tp1lab2_archivos\funcionesconfiguracion.h
+
+1665012573 c:\users\pc\desktop\utn\tecnico programador\laboratorio de computación\trabajos\trabajos grupales\tp1lab2_archivos\reportes.h
+
+1665054661 source:c:\users\david\desktop\tp1lab2_archivos (2)\tp1lab2_archivos\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<ctime>
+	"FuncionesCanciones.h"
+	"FuncionesInterpretes.h"
+	"FuncionesGeneros.h"
+	"FuncionesConfiguracion.h"
+	"reportes.h"
+
+1665065253 c:\users\david\desktop\tp1lab2_archivos (2)\tp1lab2_archivos\funcionescanciones.h
+
+1665061344 c:\users\david\desktop\tp1lab2_archivos (2)\tp1lab2_archivos\funcionesinterpretes.h
+
+1665011277 c:\users\david\desktop\tp1lab2_archivos (2)\tp1lab2_archivos\funcionesgeneros.h
+
+1665024139 c:\users\david\desktop\tp1lab2_archivos (2)\tp1lab2_archivos\funcionesconfiguracion.h
+
+1665065852 c:\users\david\desktop\tp1lab2_archivos (2)\tp1lab2_archivos\reportes.h
+
+1665054661 source:c:\users\david\desktop\vydra_davidthomas\tp1lab2_archivos\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<ctime>
+	"FuncionesCanciones.h"
+	"FuncionesInterpretes.h"
+	"FuncionesGeneros.h"
+	"FuncionesConfiguracion.h"
+	"reportes.h"
+
+1665065253 c:\users\david\desktop\vydra_davidthomas\tp1lab2_archivos\funcionescanciones.h
+
+1665061344 c:\users\david\desktop\vydra_davidthomas\tp1lab2_archivos\funcionesinterpretes.h
+
+1665011277 c:\users\david\desktop\vydra_davidthomas\tp1lab2_archivos\funcionesgeneros.h
+
+1665024139 c:\users\david\desktop\vydra_davidthomas\tp1lab2_archivos\funcionesconfiguracion.h
+
+1665094399 c:\users\david\desktop\vydra_davidthomas\tp1lab2_archivos\reportes.h
+
+1668695472 source:c:\users\david\desktop\vydra_davidthomas parcial de labo1\tp1lab2_archivos\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<ctime>
+	"FuncionesCanciones.h"
+	"FuncionesInterpretes.h"
+	"FuncionesGeneros.h"
+	"FuncionesConfiguracion.h"
+	"reportes.h"
+	"clasesrec.h"
+
+1666729583 c:\users\david\desktop\vydra_davidthomas parcial de labo1\tp1lab2_archivos\funcionescanciones.h
+
+1666822325 c:\users\david\desktop\vydra_davidthomas parcial de labo1\tp1lab2_archivos\funcionesinterpretes.h
+
+1665011277 c:\users\david\desktop\vydra_davidthomas parcial de labo1\tp1lab2_archivos\funcionesgeneros.h
+
+1665024139 c:\users\david\desktop\vydra_davidthomas parcial de labo1\tp1lab2_archivos\funcionesconfiguracion.h
+
+1668697138 c:\users\david\desktop\vydra_davidthomas parcial de labo1\tp1lab2_archivos\reportes.h
+
+1668690403 c:\users\david\desktop\vydra_davidthomas parcial de labo1\tp1lab2_archivos\clasesrec.h
+

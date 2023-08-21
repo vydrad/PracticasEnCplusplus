@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1668005214 source:c:\users\david\desktop\parcialprogra\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<ctime>
+	"clases.h"
+
+1668002356 c:\users\david\desktop\parcialprogra\clases.h
+
+1683574893 source:c:\users\david\desktop\programacion.clases importantes\c++\ejercicios de examen\parcial2deprogramacion 2\parcialprogra\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<ctime>
+	"clases.h"
+
+1683574258 c:\users\david\desktop\programacion.clases importantes\c++\ejercicios de examen\parcial2deprogramacion 2\parcialprogra\clases.h
+
